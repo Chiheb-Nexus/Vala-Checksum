@@ -1,5 +1,4 @@
 **Vala-Checksum** est une Gui développé en Vala et Gtk3+. L'application permet de calculer et de comparer les hashs des fichiers.
-Le buffer utilisé est de taille 100 Octets (Vous pouvez le modifier à volonté: ligne 412).
 
 ---
 
